@@ -124,7 +124,7 @@ Open `data/lessons.ts` and add to any unit's `lessons` array:
 
 <div align="center">
 
-Built with 💚 using **Practical Vibe Coding** · MIT License
+Built with 💚  · MIT License
 
 **Made by [Shraman123](https://github.com/Shraman123)**
 
